@@ -1,0 +1,1 @@
+FREEBASE_KEY = "Add credentials here"
